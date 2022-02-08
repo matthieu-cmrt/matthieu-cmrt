@@ -1,4 +1,4 @@
-### Hello there <img src="https://github.com/matthieu-cmrt/matthieu-cmrt/blob/main/riolu.png" alt="riolu" width="35"/>
+### Hello there !
  ~~ ~~
  
 
