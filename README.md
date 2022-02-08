@@ -23,7 +23,5 @@ Currently learning several languages:
 <img alt="php" src="https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/MYSQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="postgresql" src="https://img.shields.io/badge/postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="sql" src="" />
-<img alt="sql" src="" />
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
